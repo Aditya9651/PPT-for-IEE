@@ -1,11 +1,12 @@
-Project Repository
-Team Name
+#Project Repository
+
+##Team Name
 codewave
 
-Track
+##Track
 Environment
 
-Problem Statement
+##Problem Statement
 Interactive E-Waste Management
 
-Project Description
+##Project Description
